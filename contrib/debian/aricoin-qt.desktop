@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Aricoin
+Comment=Aricoin P2P Cryptocurrency
+Comment[fr]=Aricoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Aricoin, eşten eşe kriptografik sanal para birimi
+Exec=aricoin-qt %u
+Terminal=false
+Type=Application
+Icon=aricoin128
+MimeType=x-scheme-handler/aricoin;
+Categories=Office;Finance;
