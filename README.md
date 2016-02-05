@@ -3,10 +3,10 @@
 
 ![Aricoin](https://raw.githubusercontent.com/aricoin/aricoin/master/src/qt/res/icons/aricoin.png)
 
-[![Build Status](https://travis-ci.org/aricoin/aricoin.svg?branch=1.7-dev)](https://travis-ci.org/aricoin/aricoin) [![tip for next commit](https://tip4commit.com/projects/702.svg)](https://tip4commit.com/github/aricoin/aricoin)
+ 
 
 ## What is Aricoin?
-Aricoin is a cryptocurrency like Aricoin, although it does not use SHA256 as its proof of work (POW). Taking development cues from Tenebrix and Litecoin, Aricoin currently employs a simplified variant of scrypt.
+Aricoin is a cryptocurrency like Bitcoin with a simple to use payment platform behind it, AricoinPay, although it does not use SHA256 as its proof of work (POW). Taking development cues from Tenebrix and Litecoin, Aricoin currently employs a simplified variant of scrypt.
 
 - Total coins: ~ 450,000,000,000
 - Initial subsidy: 17500
@@ -16,7 +16,8 @@ Aricoin is a cryptocurrency like Aricoin, although it does not use SHA256 as its
 - Testnet port: 26567
 - RPC testnet port: 26568
 
-http://aricoin.com/
+http://aricoin.org/
+http://aricoinpay.com
 
 ## License
 Aricoin is released under the terms of the MIT license. See [COPYING](COPYING)
@@ -38,10 +39,7 @@ There are 3 types of branches in this repository:
 *Master and maintenance branches are exclusively mutable by release. Planned releases will always have a development branch and pull requests should be submitted against those. Maintenance branches are there for* ***bug fixes only,*** *please submit new features against the development branch with the highest version.*
 
 Translations
-------------
-
-Changes to translations as well as new translations can be submitted to
-[Aricoin Core's Transifex page](https://www.transifex.com/projects/p/aricoin/).
+------------ 
 
 Periodically the translations are pulled from Transifex and merged into the git repository. See the
 [translation process](doc/translation_process.md) for details on how this works.
